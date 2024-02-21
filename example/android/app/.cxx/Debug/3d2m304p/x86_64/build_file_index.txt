@@ -1,0 +1,2 @@
+/Users/jay/Project/RN/Libs/ReactNativeViewShot/UpdatedLib/react-native-view-shot/android/build/generated/source/codegen/jni/CMakeLists.txt
+/Users/jay/Project/RN/Libs/ReactNativeViewShot/UpdatedLib/react-native-view-shot/example/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt

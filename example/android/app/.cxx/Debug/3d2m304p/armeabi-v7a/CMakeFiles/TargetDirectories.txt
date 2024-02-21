@@ -1,0 +1,6 @@
+/Users/jay/Project/RN/Libs/ReactNativeViewShot/UpdatedLib/react-native-view-shot/example/android/app/.cxx/Debug/3d2m304p/armeabi-v7a/CMakeFiles/appmodules.dir
+/Users/jay/Project/RN/Libs/ReactNativeViewShot/UpdatedLib/react-native-view-shot/example/android/app/.cxx/Debug/3d2m304p/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/jay/Project/RN/Libs/ReactNativeViewShot/UpdatedLib/react-native-view-shot/example/android/app/.cxx/Debug/3d2m304p/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/jay/Project/RN/Libs/ReactNativeViewShot/UpdatedLib/react-native-view-shot/example/android/app/.cxx/Debug/3d2m304p/armeabi-v7a/RNViewShotSpec_autolinked_build/CMakeFiles/react_codegen_RNViewShotSpec.dir
+/Users/jay/Project/RN/Libs/ReactNativeViewShot/UpdatedLib/react-native-view-shot/example/android/app/.cxx/Debug/3d2m304p/armeabi-v7a/RNViewShotSpec_autolinked_build/CMakeFiles/edit_cache.dir
+/Users/jay/Project/RN/Libs/ReactNativeViewShot/UpdatedLib/react-native-view-shot/example/android/app/.cxx/Debug/3d2m304p/armeabi-v7a/RNViewShotSpec_autolinked_build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,12 @@
+# ninja log v5
+0	20	0	/Users/jay/Project/RN/Libs/ReactNativeViewShot/UpdatedLib/react-native-view-shot/example/android/app/.cxx/Debug/3d2m304p/x86_64/CMakeFiles/cmake.verify_globs	70517a5605eeeb15
+4	1412	1708534549075145921	RNViewShotSpec_autolinked_build/CMakeFiles/react_codegen_RNViewShotSpec.dir/react/renderer/components/RNViewShotSpec/States.cpp.o	8afbb76205d8e827
+1	1460	1708534549123876126	RNViewShotSpec_autolinked_build/CMakeFiles/react_codegen_RNViewShotSpec.dir/react/renderer/components/RNViewShotSpec/EventEmitters.cpp.o	aa8659b2ce5aacbc
+2	1806	1708534549462676916	RNViewShotSpec_autolinked_build/CMakeFiles/react_codegen_RNViewShotSpec.dir/react/renderer/components/RNViewShotSpec/RNViewShotSpecJSI-generated.cpp.o	9d2d9bf7d3962e3
+1	1815	1708534549477647092	RNViewShotSpec_autolinked_build/CMakeFiles/react_codegen_RNViewShotSpec.dir/react/renderer/components/RNViewShotSpec/Props.cpp.o	1beb383652777361
+3	1816	1708534549480251947	RNViewShotSpec_autolinked_build/CMakeFiles/react_codegen_RNViewShotSpec.dir/react/renderer/components/RNViewShotSpec/ShadowNodes.cpp.o	7b3d24b2fd1dbad3
+1	1910	1708534549570104209	RNViewShotSpec_autolinked_build/CMakeFiles/react_codegen_RNViewShotSpec.dir/RNViewShotSpec-generated.cpp.o	950b677c54150fa3
+0	1958	1708534549619144495	CMakeFiles/appmodules.dir/Users/jay/Project/RN/Libs/ReactNativeViewShot/UpdatedLib/react-native-view-shot/example/android/app/build/generated/rncli/src/main/jni/rncli.cpp.o	6d79e8309c210cf9
+1910	2002	1708534549661782039	/Users/jay/Project/RN/Libs/ReactNativeViewShot/UpdatedLib/react-native-view-shot/example/android/app/build/intermediates/cxx/Debug/3d2m304p/obj/x86_64/libreact_codegen_RNViewShotSpec.so	57743a01c99dfe72
+1	2207	1708534549866621159	CMakeFiles/appmodules.dir/OnLoad.cpp.o	2b0950bf3d9bf478
+2207	2291	1708534549950757007	/Users/jay/Project/RN/Libs/ReactNativeViewShot/UpdatedLib/react-native-view-shot/example/android/app/build/intermediates/cxx/Debug/3d2m304p/obj/x86_64/libappmodules.so	4c38166773bd316b
